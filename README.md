@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am a **Data Analyst & Python Developer** passionate about turning complex datasets into actionable insights and building functional, user-centric digital products. I bridge the gap between heavy backend data architectures, full-stack programming, and beautiful user interfaces.
